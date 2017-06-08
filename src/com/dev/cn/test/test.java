@@ -6,7 +6,7 @@ public class test<E> {
 	private List<E> list;
     private E[] e;
     public List<E> getList(){
-    	System.out.println();
+    	System.out.println("test");
     	return list;
     }
 }
