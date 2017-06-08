@@ -7,6 +7,7 @@ public class test<E> {
     private E[] e;
     public List<E> getList(){
     	System.out.println("test");
+    	System.out.println("test1");
     	return list;
     }
 }
